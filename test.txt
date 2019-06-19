@@ -3,3 +3,5 @@ goobye git!
 first update
 
 second update sub2
+
+merge sub2 to master
